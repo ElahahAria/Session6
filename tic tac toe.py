@@ -1,6 +1,4 @@
 print("hello this is tic-tak-toe game: ")
-#Ellie aria
-# august 10
 
 from pyfiglet import Figlet
 
